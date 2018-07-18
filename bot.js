@@ -40,3 +40,5 @@ kboosh.on("messageCreate", (msg) => {
   
 
 kboosh.connect("NDY5MTIyNjUwNjc4MjMxMDQw.DjDIIg.TdrLrqQM32iwEn3Ne-j89V_I5a0")
+
+client.login(process.env.BOT_TOKEN);
